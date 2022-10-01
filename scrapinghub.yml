@@ -1,0 +1,6 @@
+projects:
+  default:
+    id: 591578
+stacks:
+  default: scrapy:2.5
+requirements_file: requirements.txt
